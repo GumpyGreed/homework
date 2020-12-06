@@ -1,3 +1,4 @@
+#test
 def availability(w):
       if w in user_word:
             return True
